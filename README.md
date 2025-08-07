@@ -1,33 +1,55 @@
-<h1 align="center">Hi 👋, I'm Shahid Afridi</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+# 👋 Hi, I'm Shahid Afridi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shah200244&label=Profile%20views&color=0e75b6&style=flat" alt="shah200244" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shah200244" alt="shah200244" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 📊 Passionate Data Analyst | Turning Raw Data into Powerful Insights
 
-- 🔭 I’m currently working on **Stock Market data**
+Welcome to my GitHub! I'm a data-driven and curious **Data Analyst** with a strong background in:
 
-- 🌱 I’m currently learning **Pandas in Python**
+- 📌 **SQL**
+- 🐍 **Python**
+- 📈 **Power BI**
+- 📊 **Excel**
 
-- 📫 How to reach me **rajshahid384@gmail.com**
+I love solving real-world problems using data and storytelling through dashboards and visuals.
 
-- ⚡ Fun fact **I am funny**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/shahid raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahid raj" height="30" width="40" /></a>
-<a href="https://instagram.com/xx_shahid_xx4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xx_shahid_xx4" height="30" width="40" /></a>
-</p>
+## 🚀 Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+| Tool       | Proficiency |
+|------------|-------------|
+| **SQL**    | Joins • Subqueries • CTEs • Window Functions |
+| **Python** | Pandas • NumPy • Matplotlib • Seaborn |
+| **Power BI** | DAX • Power Query • Interactive Dashboards |
+| **Excel**   | Advanced Formulas • Pivot Tables • VBA Macros |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shah200244&show_icons=true&locale=en&layout=compact" alt="shah200244" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shah200244&show_icons=true&locale=en" alt="shah200244" /></p>
+## 📁 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shah200244&" alt="shah200244" /></p>
+### 📌 [Power BI Sales Dashboard](#)
+> A dynamic dashboard showing revenue trends, region-wise performance, and KPIs.
 
--->
+### 📌 [Customer Segmentation using K-Means](#)
+> Python project to segment customers based on purchase behavior and demographics.
+
+### 📌 [Data Cleaning with Python](#)
+> Cleaned a messy dataset using `pandas`, removed nulls, and visualized trends with `seaborn`.
+
+### 📌 [SQL Retail Data Analysis](#)
+> Complex queries written to analyze orders, revenue, and customer behavior.
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shahid-raj44/)
+- 🌐 [Portfolio Website](https://your-portfolio.com)
+- 📧 Email: rajshahid384@gmail.com
+
+---
+
+> “Without data, you’re just another person with an opinion.” – W. Edwards Deming
+
+If you like my work, please ⭐️ the repositories and follow for more data projects!
